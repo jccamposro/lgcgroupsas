@@ -1,0 +1,13 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Dependencias / build (por si se agregan luego)
+node_modules/
+dist/
+.wrangler/
